@@ -19,3 +19,7 @@ desktop.ini        # Windows
 # Build files (if applicable)
 dist/
 build/
+
+# Virtual Env
+.venv/
+
