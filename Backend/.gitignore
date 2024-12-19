@@ -1,0 +1,50 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Django specific
+db.sqlite3
+*.log
+*.pot
+*.py[cod]
+*.~ 
+*.swp
+*.swo
+*.bak
+*.backup
+media/
+staticfiles/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Test and Debug files
+coverage/
+*.coverage
+.tox/
+nosetests.xml
+test-results.xml
+
+# Pip dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local environment settings
+.env
+*.env
+config/settings/local.py
+
